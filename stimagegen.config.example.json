@@ -1,0 +1,9 @@
+{
+  "allowedOrigins": ["https://st.nihilhhl.lol"],
+  "imageService": {
+    "url": "https://comfy.nihilhhl.lol",
+    "token": "REPLACE_WITH_SERVER_SIDE_SCOPED_SERVICE_CREDENTIAL",
+    "defaultWorkflow": ""
+  },
+  "promptMode": "natural"
+}

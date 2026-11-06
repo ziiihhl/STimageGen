@@ -1,0 +1,12 @@
+{
+  "display_name": "ST ImageGen",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "extension/index.js?v=1.2.1",
+  "css": "extension/image-panel.css?v=1.0.0",
+  "author": "ST ImageGen contributors",
+  "version": "1.2.1",
+  "minimum_client_version": "1.19.0",
+  "description": "调用现有生图服务，提供浮窗、提示词编辑、任务进度和聊天插图。"
+}
